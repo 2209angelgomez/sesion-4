@@ -1,0 +1,107 @@
+.caja1, .caja2, .caja3, .caja4, .caja5, .caja6, .caja7, .caja8, .caja9, .caja10, .caja11, .caja12{
+	height: 120px;
+	width: 120px;
+	margin-left:50px;
+	margin-bottom: :20px;
+	text-align: center;
+	padding: 20px;
+	margin-top: 20px; 
+	background-color: pink;
+	border: 3px solid #000;
+	
+} 
+.caja1{
+	 border-radius:24px ;
+	 box-shadow: -10px #4B8015;
+}
+·
+.caja2{
+	 border-top-left-radius: 24px;
+	 box-shadow: -5px -5px 5px #327E73;
+
+}
+.caja3{
+	clear: both;
+	border-radius: 24px 0;
+	box-shadow: -5px -5px 0 5px #7C7C19;
+}
+.caja4{
+	border-radius: 36px 12px;
+	box-shadow: -5px -5px 5px 5px #65F331;
+}
+.caja5{
+	clear: both;
+	border-top-right-radius: 50px 30px;
+	box-shadow: 0 0 5px #EA00D8;
+}
+.caja6{
+	border-bottom-right-radius: 50px 30px;
+	box-shadow: 0 0 5px 5px #4CF0E8;
+}
+.caja7{
+	border-radius: 50%;
+	box-shadow:inset -5px -5px  #EB1FD6;
+}
+.caja8{
+	border-radius: 50%  50% 0 0;
+	box-shadow: inset -5px -5px  5px #EC3856;
+}
+.caja9{
+	border-radius: 0 20px 20px 0;
+	box-shadow: inset -5px -5px 0 5px #E6A3EF;
+}
+.caja10{
+	border-radius:  20% 0 0 20%;
+	box-shadow: inset -5px -5px 5px 5px #B1F1E9;
+
+}
+
+.caja11{
+	border-radius: o 50% 0 50%;
+	box-shadow: inset 0 0 80px #EE7286;
+}
+.caja12{
+	border-top-left-radius: 50% 20%;
+	border-top-right-radius: 50% 20%;
+	border-bottom-left-radius: 50% 20%;
+	border-bottom-right-radius: 50% 20%;
+	box-shadow: inset 0 0 5px 5px #EAF3A0;
+
+}
+.caja13{
+	
+	width: 120px;
+	padding: 10px;
+	background-color: #F3EA00;
+	border-radius:24px ;
+	box-shadow: -15px -15px 10px  #F4A62C,
+                30px 20px 20px #2D13CB; 
+	
+
+}
+
+h1{
+	text-shadow: -5px 1px 5px #FD7908, 8px 8px 1px blue;
+}
+ .caja14{
+ 	height: 200px;
+ 	width: 200px;
+ 	background-color: rgb(0, 0, 255);
+ 	background-color: rgba(0, 0, 0, 1.0);
+ }
+
+ h2{
+ 	text-shadow: 1px 1px 0 rgba(230, 230, 230, 1.0),
+ 				2px 2px 0px rgba(200, 200, 200, 1),
+ 				3px 3px 0px rgba(180, 180, 180, 1),
+ 				4px 4px 0px rgba(160, 160, 160, 1),
+ 				5px 5px 0px rgba(0, 0, 0, 1),
+ 				8px 8px 0px rgba(0, 0, 0, 0.5);
+ 	color: white;
+ 	background-color: blue;
+
+
+ 	 
+
+ }
+

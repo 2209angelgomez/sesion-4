@@ -1,0 +1,37 @@
+#caja1, #caja2, #caja3, #caja4, #caja4, #caja5, #caja6, #caja7, #caja8, #caja9, #caja10, #caja11, #caja12{
+	height: 120px;
+	width: 120px;
+	margin-left: 50px;
+	float: left;
+	margin-bottom: 20px;
+	text-align: center;
+	padding: 20px;
+	margin-top: 20px;
+	background-color: #3DFF21;
+	border: 5px dotted #3020FF;
+}
+
+body{
+	background-image: url('../img/ac.jpeg');
+	
+
+}
+
+#caja1{
+	background-image: url('../img/back_mantel.jpeg');
+
+}
+#caja2{
+	background-image: url('../img/back_mantel.jpeg');
+	background-clip: content-box;
+}
+#caja3{
+	background-image: url('../img/back_mantel.jpeg');
+	background-size: 100% 100%;
+}
+#caja4{
+	background-image: url('../img/back_mantel.jpeg');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-origin: content-box;
+}

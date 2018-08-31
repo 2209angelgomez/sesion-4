@@ -1,0 +1,19 @@
+#caja1, #caja2, #caja3, #caja4{
+	background-color: red;
+	border: 12px solid;
+	height: 200px;
+	width: 400px;
+
+}
+#caja1 {
+	
+	display: block;
+}
+#caja2, #caja3 {
+	display: inline;
+}
+
+
+#caja4 {
+	display: none;
+} 
