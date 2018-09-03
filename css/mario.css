@@ -1,0 +1,21 @@
+
+.anterior, .posterior{
+	height: 200px;
+	width: 300px;
+	border:  2px solid blue;
+}
+.muestra{
+	height: 300px;
+	width: 400px;
+	padding: 30px;
+	margin:  20px ;
+	border: 5px solid red;
+}
+
+
+div {
+	background: url('../img/01.jpeg') left bottom repeat-x,
+				url('../img/02.jpeg') left bottom no-repeat,
+				url('../img/03.jpeg') left top repeat-x;
+	background-color: #a4d3ff;			
+}
